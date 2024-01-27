@@ -6,17 +6,12 @@ body {
     color: rgb(0, 0, 0);
 }
 
-div {
-    border: 1px solid #000000;
-}
-
-
-
 #header {
     height: 15vh;
     padding-top: 3.5vh;
     background-image: linear-gradient(rgb(65, 65, 65), rgba(0, 0, 0, 0));
     margin-bottom: 3.5vh;
+    padding-bottom: 3.5vh;
 }
 
 #header div {
